@@ -2,6 +2,6 @@
 
 ### Кастомная гитара Gibson Les Paul и педаль цветов
 
-### Portfolio: 
+### Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-50/SVG-Gibson-Les-Paul-Guitar/index.html
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/147850551-8bf4b6d6-051d-446c-805a-36d4bcd4b252.jpg)
