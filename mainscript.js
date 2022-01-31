@@ -28,6 +28,10 @@ let inlay10 = document.getElementById("inlay10");
 
 hamb1.style.fill = color2.style.fill;
 hamb2.style.fill = color2.style.fill;
+// color1.style.fill = `rgb(${getRandomInt(0, 250)}, ${getRandomInt(0, 250)}, ${getRandomInt(0, 250)})`;
+// color2.style.fill = `rgb(${getRandomInt(0, 250)}, ${getRandomInt(0, 250)}, ${getRandomInt(0, 250)})`;
+// griff.style.fill = `rgb(${getRandomInt(0, 250)}, ${getRandomInt(0, 250)}, ${getRandomInt(0, 250)})`;
+// griffHand.style.fill = `rgb(${getRandomInt(0, 250)}, ${getRandomInt(0, 250)}, ${getRandomInt(0, 250)})`;
 
 document.getElementById("btn").addEventListener('click', function() {
     color1.style.fill = inputMain.value;
