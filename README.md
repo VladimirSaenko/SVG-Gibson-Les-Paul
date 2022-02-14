@@ -6,4 +6,4 @@
 
 ## Codepen: https://codepen.io/vladimirsaenko/pen/JjrLJKE
 
-![img-portfolio](https://user-images.githubusercontent.com/56477695/147850551-8bf4b6d6-051d-446c-805a-36d4bcd4b252.jpg)
+![img-portfolio](https://user-images.githubusercontent.com/56477695/153874664-9966f45e-1b8b-4fd3-821f-0d382da38f4f.jpg)
