@@ -1,11 +1,13 @@
 # SVG-Gibson-Les-Paul
 
-## Кастомная гитара Gibson Les Paul | Custom guitar Gibson Les Paul
+## Кастомная гитара Gibson Les Paul 
 
-## Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-50/SVG-Gibson-Les-Paul-Guitar/index.html
+## Custom guitar Gibson Les Paul
 
-## Codepen: https://codepen.io/vladimirsaenko/pen/JjrLJKE
+### Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-50/SVG-Gibson-Les-Paul-Guitar/index.html
 
-## Left version: https://vladimirsaenko.github.io/SVG-Gibson-Les-Paul-LeftyGuitar/
+### Codepen: https://codepen.io/vladimirsaenko/pen/JjrLJKE
+
+### Left version: https://vladimirsaenko.github.io/SVG-Gibson-Les-Paul-LeftyGuitar/
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/153874664-9966f45e-1b8b-4fd3-821f-0d382da38f4f.jpg)
