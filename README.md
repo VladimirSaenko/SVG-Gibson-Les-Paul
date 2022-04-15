@@ -1,4 +1,4 @@
-# SVG-Gibson-Les-Paul
+# SVG-Gibson-Les-Paul-Guitar
 
 ## Кастомная гитара Gibson Les Paul 
 
