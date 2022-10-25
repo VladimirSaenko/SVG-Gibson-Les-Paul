@@ -4,8 +4,6 @@
 
 ## Custom guitar Gibson Les Paul
 
-### Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-50/SVG-Gibson-Les-Paul-Guitar/index.html
-
 ### Codepen: https://codepen.io/vladimirsaenko/pen/JjrLJKE
 
 ### Left version: https://vladimirsaenko.github.io/SVG-Gibson-Les-Paul-LeftyGuitar/
