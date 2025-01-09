@@ -1,7 +1,5 @@
 # SVG-Gibson-Les-Paul-Guitar
 
-## Кастомная гитара Gibson Les Paul 
-
 ## Custom guitar Gibson Les Paul
 
 ### Codepen: https://codepen.io/vladimirsaenko/pen/JjrLJKE
